@@ -3,7 +3,6 @@
 
 ## 🏷️ Requirements
 
-- [IPS Community Suite: 4.6 version](https://invisioncommunity.com/)
 - [Forum add-ons 1.0.0 ](https://invisioncommunity.com/files/file/10089-pc-forum-add-ons/)
 
 ## 🔧 Install and update
