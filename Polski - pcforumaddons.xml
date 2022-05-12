@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="Polski" rtl="0">
+ <app key="pcforumaddons" version="10000">
+  <word key="__app_pcforumaddons" js="0">[PC] Forum add-ons</word>
+  <word key="menutab__pcforumaddons_icon" js="0">commenting-o</word>
+  <word key="menutab__pcforumaddons" js="0">Forum add-ons</word>
+  <word key="menu__acp_icons_settings" js="0">Ustawienia ikon</word>
+  <word key="menu__acp_messages_settings" js="0">Ustawienia ogłoszeń (IPS)</word>
+  <word key="menu__acp_main_settings" js="0">Ustawienia dodatków</word>
+  <word key="menu__pcforumaddons_messages" js="0">Ogłoszenia (IPS)</word>
+  <word key="menu__pcforumaddons_messages_settings" js="0">Ustawienia ogłoszenia (IPS)</word>
+  <word key="menu__pcforumaddons_icons_settings" js="0">Ustawienia</word>
+  <word key="menu__pcforumaddons_icons" js="0">Ikony</word>
+  <word key="menu__pcforumaddons_addons" js="0">Dodatki</word>
+  <word key="menu__pcforumaddons_addons_main" js="0">Główne ustawienia</word>
+  <word key="menu__pcforumaddons_addons_forums" js="0">Ustawienia for</word>
+  <word key="menu__pcforumaddons_addons_news" js="0">Własny komunikat</word>
+  <word key="menu__pcforumaddons_addons_topics" js="0">Ustawienia tematów</word>
+  <word key="menu__pcforumaddons_addons_footer" js="0">Ustawienia zaawansowanej stopki</word>
+  <word key="module__pcforumaddons_addons" js="0">Forum</word>
+  <word key="pc_acp_message_information" js="0"><![CDATA[Jeśli nie chcesz korzystać z <a href="https://fonts.google.com/icons" rel="nofollow noopener" target="_blank" class="ipsType_bold" style="transition: color 0.3s ease">Google Material Icons</a>, zalecamy używać <a href="https://invisioncommunity.com/files/file/10056-axen-font-awesome-6-in-ips/" rel="nofollow noopener" target="_blank" class="ipsType_bold" style="transition: color 0.3s ease">FontAwesome 6 (Application)</a>]]></word>
+  <word key="pc_acp_default_usernav_icons" js="0"><![CDATA[Domyślnie <a href="https://fonts.google.com/icons" rel="nofollow noopener" target="_blank" class="ipsType_bold" style="transition: color 0.3s ease">Google Material Icons</a>]]></word>
+  <word key="pc_acp_default_announcement_icons" js="0"><![CDATA[Domyślnie <a href="https://fontawesome.com/icons" rel="nofollow noopener" target="_blank" class="ipsType_bold" style="transition: color 0.3s ease">Font Awesome 6</a>]]></word>
+  <word key="pc_acp_default_modcp_icons" js="0"><![CDATA[Domyślnie <a href="https://fontawesome.com/icons" rel="nofollow noopener" target="_blank" class="ipsType_bold" style="transition: color 0.3s ease">Font Awesome 6</a>]]></word>
+  <word key="pc_acp_default_notifications_icons" js="0"><![CDATA[Domyślnie <a href="https://fonts.google.com/icons" rel="nofollow noopener" target="_blank" class="ipsType_bold" style="transition: color 0.3s ease">Google Material Icons</a>]]></word>
+  <word key="pc_acp_default_forums_icons" js="0"><![CDATA[Domyślnie <a href="https://fontawesome.com/icons" rel="nofollow noopener" target="_blank" class="ipsType_bold" style="transition: color 0.3s ease">Font Awesome 6</a>]]></word>
+  <word key="pc_tab_messages_global" js="0">Ustawienia ogłoszeń (IPS)</word>
+  <word key="pc_tab_messages_info" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Informacyjne]]></word>
+  <word key="pc_tab_messages_general" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Ogólne]]></word>
+  <word key="pc_tab_messages_warning" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Ostrzegające]]></word>
+  <word key="pc_tab_messages_error" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Ważne]]></word>
+  <word key="pc_tab_messages_success" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Pozytywne]]></word>
+  <word key="pc_setting_message_columns_enable" js="0">Wyświetlać w kolumnach?</word>
+  <word key="pc_setting_message_columns" js="0">Kolumny</word>
+  <word key="pc_setting_message_column_1" js="0">1 Kolumna</word>
+  <word key="pc_setting_message_column_2" js="0">2 Kolumny</word>
+  <word key="pc_setting_message_column_3" js="0">3 Kolumny</word>
+  <word key="pc_setting_gradient_enabled" js="0">Gradient</word>
+  <word key="pc_setting_new_color_enabled" js="0">Zmodyfikuj kolory ogłoszeń</word>
+  <word key="pc_setting_new_color_enabled_desc" js="0"><![CDATA[Aby, zmodyfikować kolory ogłoszeń zmień: <b>color #1</b>]]></word>
+  <word key="pc_acp__message_info_colors" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Informacyjne <p class="ipsType_reset ipsType_bold ipsType_small ipsType_light">.ipsMessage_info</p>]]></word>
+  <word key="pc_acp__message_general_colors" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Ogólne <p class="ipsType_reset ipsType_bold ipsType_small ipsType_light">.ipsMessage_general</p>]]></word>
+  <word key="pc_acp__message_warning_colors" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Ostrzegające <p class="ipsType_reset ipsType_bold ipsType_small ipsType_light">.ipsMessage_warning</p>]]></word>
+  <word key="pc_acp__message_error_colors" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Ważne <p class="ipsType_reset ipsType_bold ipsType_small ipsType_light">.ipsMessage_error</p>]]></word>
+  <word key="pc_acp__message_success_colors" js="0"><![CDATA[<b>Ogłoszenie</b>&nbsp;- Pozytywne <p class="ipsType_reset ipsType_bold ipsType_small ipsType_light">.ipsMessage_success</p>]]></word>
+  <word key="pc_setting_message_info_color_1" js="0">Kolor #1</word>
+  <word key="pc_setting_message_info_color_2" js="0">Kolor #2</word>
+  <word key="pc_setting_message_general_color_1" js="0">Kolor #1</word>
+  <word key="pc_setting_message_general_color_2" js="0">Kolor #2</word>
+  <word key="pc_setting_message_warning_color_1" js="0">Kolor #1</word>
+  <word key="pc_setting_message_warning_color_2" js="0">Kolor #2</word>
+  <word key="pc_setting_message_error_color_1" js="0">Kolor #1</word>
+  <word key="pc_setting_message_error_color_2" js="0">Kolor #2</word>
+  <word key="pc_setting_message_success_color_1" js="0">Kolor #1</word>
+  <word key="pc_setting_message_success_color_2" js="0">Kolor #2</word>
+  <word key="pc_setting_message_info_color_text" js="0">Kolor tesktu</word>
+  <word key="pc_setting_message_general_color_text" js="0">Kolor tesktu</word>
+  <word key="pc_setting_message_warning_color_text" js="0">Kolor tesktu</word>
+  <word key="pc_setting_message_error_color_text" js="0">Kolor tesktu</word>
+  <word key="pc_setting_message_success_color_text" js="0">Kolor tesktu</word>
+  <word key="pc_setting_shadow_enabled" js="0">Box-shadow</word>
+  <word key="pc_tab_icons_global" js="0">Google Material Icons</word>
+  <word key="pc_tab_icons_usernav" js="0">User nav</word>
+  <word key="pc_tab_icons_announcement" js="0">Ogłoszenia / Wiadomości</word>
+  <word key="pc_tab_icons_modcp" js="0">Moderator panel</word>
+  <word key="pc_tab_icons_notifications" js="0">Powiadomienia</word>
+  <word key="pc_icons_usernav_enable" js="0"><![CDATA[<b>UserNav</b> Ikony]]></word>
+  <word key="pc_icons_announcement_enable" js="0"><![CDATA[<b>Ogłoszenia</b> Ikony]]></word>
+  <word key="pc_icons_modcp_enable" js="0"><![CDATA[<b>Moderator panel</b> Ikony]]></word>
+  <word key="pc_icons_notifications_enable" js="0"><![CDATA[<b>Notifications</b> Ikony]]></word>
+  <word key="pc_icons_usernav_global2" js="0"><![CDATA[<b>[CSS] UserNav</b> - Ikony]]></word>
+  <word key="pc_icons_announcement_global2" js="0"><![CDATA[<b>[CSS] Ogłoszenia</b> - Ikony]]></word>
+  <word key="pc_icons_modcp_global2" js="0"><![CDATA[<b>[CSS] Moderator panel</b> - Ikony]]></word>
+  <word key="pc_icons_notifications_global2" js="0"><![CDATA[<b>[CSS] Powiadomienia</b> - Ikony]]></word>
+  <word key="pc_google_icons" js="0"><![CDATA[<a href="https://fonts.google.com/icons" rel="nofollow noopener" target="_blank" class="ipsType_bold" style="transition: color 0.3s ease">Google Material Icons</a>]]></word>
+  <word key="pc_google_icons_desc" js="0">Jeśli nie chcesz korzystać z tych ikon, wyłącz tę opcję</word>
+  <word key="pc_google_icons_use_usernav" js="0"><![CDATA[Chcę korzystać z <b>Google Material Icons</b>]]></word>
+  <word key="pc_google_icons_use_announcement" js="0"><![CDATA[Chcę korzystać z <b>Google Material Icons</b>]]></word>
+  <word key="pc_google_icons_use_modcp" js="0"><![CDATA[Chcę korzystać z <b>Google Material Icons</b>]]></word>
+  <word key="pc_google_icons_use_notifications" js="0"><![CDATA[Chcę korzystać z <b>Google Material Icons</b>]]></word>
+  <word key="pc_tab_main_settings" js="0">Główne ustawienia</word>
+  <word key="p_setting_main_medals" js="0">Włączyć medale?</word>
+  <word key="p_setting_ip_for_admin" js="0"><![CDATA[Adres IP <b>tylko</b> dla adminów? (Tematy)]]></word>
+  <word key="pc_setting_main_selection" js="0">Zmodyfikować kolor tekstu po najechaniu?</word>
+  <word key="pc_setting_main_selection_desc" js="0">Opcja dostosuje się do Twojego motywu. (Brand color)</word>
+  <word key="pc_setting_main_usernav" js="0">Zmodyfikować &quot;Panel użytkownika (menu)&quot;?</word>
+  <word key="pc_setting_main_tooltip" js="0">Zmodyfikować &quot;tooltip&quot;?</word>
+  <word key="pc_setting_main_tooltip_background" js="0">Kolor tła &quot;tooltip&quot;</word>
+  <word key="pc_setting_main_tooltip_color" js="0">Kolor tekstu &quot;tooltip&quot;</word>
+  <word key="pc_setting_main_new_message" js="0">Prefix &quot;Nowy&quot;</word>
+  <word key="pc_setting_main_new_message_badge" js="0">Wygląd &quot;Nowy&quot;</word>
+  <word key="pc_setting_main_new_message_front" js="0">Nowy</word>
+  <word key="pc_setting_main_sticky_header_mobile" js="0">Przyklejony navbar na telefonie?</word>
+  <word key="pc_tab_main_flash_message" js="0">Ustawienia &quot;Flash message&quot; (IPS)</word>
+  <word key="pc_setting_main_flash_message" js="0">Zmodyfikować &quot;flash message?&quot;</word>
+  <word key="pc_setting_flash_message_background" js="0">Kolor tła</word>
+  <word key="pc_setting_flash_message_color" js="0">Kolor tekstu</word>
+  <word key="pc_setting_flash_message_radius" js="0">Zaokrąglenie</word>
+  <word key="pc_setting_flash_message_close_bg" js="0">Kolor tła przycisku &quot;Zamknij&quot;</word>
+  <word key="pc_setting_flash_message_close_clr" js="0">Kolor tekstu przycisku &quot;Zamknij&quot;</word>
+  <word key="pc_setting_flash_message_text_light_clr" js="0">Kolor tekstu pod tytułem wiadomości</word>
+  <word key="menu__acp_main_forums" js="0">Ustawienia for</word>
+  <word key="pc_setting_forums_col" js="0">Wyświetlać subfora w kolumnach?</word>
+  <word key="pc_setting_forums_col_1" js="0">1 Kolumna</word>
+  <word key="pc_setting_forums_col_2" js="0">2 Kolumny</word>
+  <word key="pc_setting_forums_col_3" js="0">3 Kolumny</word>
+  <word key="pc_setting_forums_col_4" js="0">4 Kolumny</word>
+  <word key="pc_setting_forums_desc" js="0">Opis działu pod nazwa działu?</word>
+  <word key="pc_tab_forums_global" js="0">Ustawienia działów</word>
+  <word key="pc_setting_custom_appearance" js="0">Inny wygląd statystyk działu</word>
+  <word key="pc_setting_forums_topics" js="0">Pokazać ilość napisanych tematów?</word>
+  <word key="pc_num_forums_topics" js="0">Tematy</word>
+  <word key="pc_tab_forums_icons" js="0">Ikony działów</word>
+  <word key="pc_setting_forum_icons_enabled" js="0">Podmienić ikony działów?</word>
+  <word key="pc_setting_forum_icons" js="0"><![CDATA[<b>[CSS]</b> Ikony działów]]></word>
+  <word key="pc_tab_news_settings" js="0">Ustawienia</word>
+  <word key="pc_setting_news_position_top_bottom" js="0">Pozycja wiadomości (gora, dol)</word>
+  <word key="pc_setting_news_position_left_right" js="0">Pozycja wiadomości (prawo, lewo)</word>
+  <word key="pc_tab_news_global" js="0">Komunikat dla wszystkich</word>
+  <word key="pc_setting_news" js="0">Komunikat dla wszystkich</word>
+  <word key="pc_setting_news_position_left" js="0">Lewo</word>
+  <word key="pc_setting_news_position_right" js="0">Prawo</word>
+  <word key="pc_setting_news_position_top" js="0">Góra</word>
+  <word key="pc_setting_news_position_bottom" js="0">Dół</word>
+  <word key="pc_setting_news_background" js="0">Kolor tła</word>
+  <word key="pc_setting_news_color" js="0">Kolor tekstu</word>
+  <word key="pc_setting_news_radius" js="0">Zaokrąglenie</word>
+  <word key="pc_setting_news_icon" js="0">Ikona (FontAwesome 6)</word>
+  <word key="pc_setting_news_title" js="0">Tytuł</word>
+  <word key="pc_setting_news_content" js="0">Treść</word>
+  <word key="pc_setting_news_url_yesNo" js="0">URL</word>
+  <word key="pc_setting_news_url" js="0">Link do strony / tematu, do czego chcesz</word>
+  <word key="pc_tab_news_member" js="0">Komunikat dla użytkownika</word>
+  <word key="pc_setting_news_member" js="0">Komunikat dla użytkownika</word>
+  <word key="pc_setting_news_for_member" js="0">Nazwa użytkownika</word>
+  <word key="pc_setting_news_background_member" js="0">Kolor tła</word>
+  <word key="pc_setting_news_color_member" js="0">Kolor tekstu</word>
+  <word key="pc_setting_news_radius_member" js="0">Zaokrąglenie</word>
+  <word key="pc_setting_news_icon_member" js="0">Ikona (FontAwesome 6)</word>
+  <word key="pc_setting_news_title_member" js="0">Tytuł</word>
+  <word key="pc_setting_news_content_member" js="0">Treść</word>
+  <word key="pc_setting_news_url_yesNo_member" js="0">URL</word>
+  <word key="pc_setting_news_url_member" js="0">Link do strony / tematu, do czego chcesz</word>
+  <word key="pc_tab_news_group" js="0">Komunikat dla Grupy</word>
+  <word key="pc_setting_news_group" js="0">Komunikat dla Grupy</word>
+  <word key="pc_setting_news_for_group" js="0">Wybierz grupe</word>
+  <word key="pc_setting_news_background_group" js="0">Kolor tła</word>
+  <word key="pc_setting_news_color_group" js="0">Kolor tekstu</word>
+  <word key="pc_setting_news_radius_group" js="0">Zaokrąglenie</word>
+  <word key="pc_setting_news_icon_group" js="0">Ikona (FontAwesome 6)</word>
+  <word key="pc_setting_news_title_group" js="0">Tytuł</word>
+  <word key="pc_setting_news_content_group" js="0">Treść</word>
+  <word key="pc_setting_news_url_yesNo_group" js="0">URL</word>
+  <word key="pc_setting_news_url_group" js="0">Link do strony / tematu, do czego chcesz</word>
+  <word key="pc_setting_news_btn_member" js="0">Kolor przycisku</word>
+  <word key="pc_tab_topics_global" js="0">Ustawienia</word>
+  <word key="pc_setting_topics_plugins_style" js="0">Zmodyfikować wygląd ukrytego postu?</word>
+  <word key="pc_tab_topics_editor" js="0">Edytor tekstu (CKEditor)</word>
+  <word key="pc_setting_topics_editor_font" js="0">Zmienić ikony w edytorze?</word>
+  <word key="pc_setting_topics_editor_font_desc" js="0">Podmienia domyślne ikony w edytorze na ikony FontAwesome 6</word>
+  <word key="pc_setting_topics_editor_icons" js="0"><![CDATA[<b>[CSS]</b> Ikony]]></word>
+  <word key="pc_setting_topics_controls_style" js="0">Zmodyfikować wygląd przycisków?</word>
+  <word key="pc_setting_topics_controls_style_desc" js="0"><![CDATA[Opcja modyfikuje przyciski <i>cytuj, edytuj</i> itd.]]></word>
+  <word key="pc_setting_topics_controls_icons" js="0">Włączyć ikony przycisków?</word>
+  <word key="pc_setting_topics_controls_icons_value" js="0"><![CDATA[<b>[CSS]</b> Ikony]]></word>
+  <word key="pc_setting_forum_icons_desc" js="0"><![CDATA[Zalecane FontAwesome!<br>.cForumRow[data-forumid="forum_ID"] .ipsItemStatus i.fa-comments::before {content: "\unicode";}]]></word>
+  <word key="pc_tab_main_scroll_style" js="0">Wygląd scroll-a</word>
+  <word key="pc_tab_main_scroll_style_enabled" js="0">Zmodyfikować wygląd scroll-a?</word>
+  <word key="pc_tab_main_scroll_style_width" js="0">Szerokość</word>
+  <word key="pc_tab_main_scroll_style_radius" js="0">Zaokrąglenie</word>
+  <word key="pc_tab_main_scroll_style_background" js="0">webkit-scrollbar-track</word>
+  <word key="pc_tab_main_scroll_style_color" js="0">webkit-scrollbar-thumb</word>
+  <word key="pc_tab_main_buttons" js="0">Przyciski</word>
+  <word key="pc_tab_main_buttons_enabled" js="0">Przyciski</word>
+  <word key="pc_tab_main_button_position" js="0">Pozycja przycisków</word>
+  <word key="pc_tab_main_button_position_left" js="0">Lewo</word>
+  <word key="pc_tab_main_button_position_right" js="0">Prawo</word>
+  <word key="pc_tab_main_button_btt" js="0"><![CDATA[Button <b>wróć do góry</b>]]></word>
+  <word key="pc_tab_main_button_gb" js="0"><![CDATA[Button <b>przejdź na dół</b>]]></word>
+  <word key="pc_tab_main_button_home" js="0"><![CDATA[Button <b>wróc na strone główną</b>]]></word>
+  <word key="pc_tab_main_button_sm_facebook" js="0"><![CDATA[<b>Social Media</b> Facebook]]></word>
+  <word key="pc_tab_main_button_sm_twitter" js="0"><![CDATA[<b>Social Media</b> Twitter]]></word>
+  <word key="pc_tab_main_button_sm_instagram" js="0"><![CDATA[<b>Social Media</b> Instagram]]></word>
+  <word key="pc_tab_main_button_sm_facebook_url" js="0"><![CDATA[<b>(Facebook)</b> URL]]></word>
+  <word key="pc_tab_main_button_sm_instagram_url" js="0"><![CDATA[<b>(Instagram)</b> URL]]></word>
+  <word key="pc_tab_main_button_sm_twitter_url" js="0"><![CDATA[<b>(Twitter)</b> URL]]></word>
+  <word key="pc_back_to_top" js="0">Wróć do góry</word>
+  <word key="pc_go_to_bottom" js="0">Przejdź na dół</word>
+  <word key="pc_home" js="0">Wróć na góre strony</word>
+  <word key="pc_tab_pm_settings" js="0">Ustawienia PW/PM</word>
+  <word key="p_setting_full_inbox" js="0">Informacja o pełnej skrzynce odbiorczej</word>
+  <word key="p_setting_full_type" js="0">Wygląd informacji</word>
+  <word key="p_setting_full_inbox_title" js="0">Tytuł informacji</word>
+  <word key="p_setting_full_inbox_content" js="0">Treść informacji</word>
+  <word key="p_tab_footer_settings" js="0">Ustawienia</word>
+  <word key="p_setting_footer_enable" js="0">Włączyć zaawansowana stopke?</word>
+  <word key="p_setting_footer_icons" js="0">Ikony w tytułach</word>
+  <word key="p_setting_footer_icons_desc" js="0">FontAwesome 6</word>
+  <word key="p_setting_footer_mobile" js="0">Pokazywać na telefonie/tablecie?</word>
+  <word key="p_setting_footer_background" js="0">Tło zaawansowanej stopki #1</word>
+  <word key="p_setting_footer_background_2" js="0">Tło zaawansowanej stopki #2</word>
+  <word key="p_setting_footer_global_text" js="0">Kolor tekstu zaawansowanej stopki #1</word>
+  <word key="p_setting_footer_global_text_2" js="0">Kolor tekstu zaawansowanej stopki #2</word>
+  <word key="p_setting_footer_container" js="0">Szerokość stopki</word>
+  <word key="p_setting_footer_container_desc" js="0">Wartość w %</word>
+  <word key="p_setting_footer_sep" js="0">Separator tytułu</word>
+  <word key="p_setting_footer_sep_bg" js="0">Kolor separatora</word>
+  <word key="p_tab_footer_col_1" js="0">O Nas</word>
+  <word key="p_setting_footer_col_1_enabled" js="0">O Nas - enabled?</word>
+  <word key="p_setting_footer_col_1_icon" js="0">Ikona</word>
+  <word key="p_setting_footer_col_1_title" js="0">Tytuł</word>
+  <word key="p_setting_footer_col_1_content" js="0">Treść</word>
+  <word key="p_setting_footer_staff_members" js="0">Wpisz nazwy użytkowników, ktorzy beda w &quot;staff members&quot;</word>
+  <word key="p_setting_footer_staff_members_desc" js="0"><![CDATA[Limit: <b>10</b>]]></word>
+  <word key="p_setting_footer_staff_members_enabled" js="0">Włączyć &quot;staff members&quot;</word>
+  <word key="p_staff_members" js="0">Staff members</word>
+  <word key="p_setting_footer_media" js="0">Social media w stopce</word>
+  <word key="p_setting_media_facebook" js="0">Facebook włączony?</word>
+  <word key="p_setting_media_facebook_url" js="0">Facebook URL</word>
+  <word key="p_setting_media_twitter" js="0">Twitter włączony?</word>
+  <word key="p_setting_media_twitter_url" js="0">Twitter URL</word>
+  <word key="p_setting_media_instagram" js="0">Instagram włączony?</word>
+  <word key="p_setting_media_instagram_url" js="0">Instagram URL</word>
+  <word key="p_setting_media_steam" js="0">Steam włączony?</word>
+  <word key="p_setting_media_steam_url" js="0">Steam URL</word>
+  <word key="p_setting_media_linkedin" js="0">Linkedin włączony?</word>
+  <word key="p_setting_media_linkedin_url" js="0">Linkedin URL</word>
+  <word key="p_setting_media_discord" js="0">Discord włączony?</word>
+  <word key="p_setting_media_discord_url" js="0">Discord URL</word>
+  <word key="p_setting_media_youtube" js="0">Youtube włączony?</word>
+  <word key="p_setting_media_youtube_url" js="0">Youtube URL</word>
+  <word key="p_setting_media_tiktok" js="0">Tiktok włączony?</word>
+  <word key="p_setting_media_tiktok_url" js="0">Tiktok URL</word>
+  <word key="p_setting_media_pinterest" js="0">Pinterest włączony?</word>
+  <word key="p_setting_media_pinterest_url" js="0">Pinterest URL</word>
+  <word key="p_tab_footer_col_2" js="0">Quick links</word>
+  <word key="p_setting_footer_col_2_enabled" js="0">Quick links - włączony?</word>
+  <word key="p_setting_footer_col_2_icon" js="0">Ikona</word>
+  <word key="p_setting_footer_col_2_title" js="0">Tytuł</word>
+  <word key="p_setting_footer_col_2_link_col" js="0">Wybierz ilosć kolumn</word>
+  <word key="p_setting_footer_col_2_link_col_desc" js="0">Ilość kolumn, w której mają być wyświetlane linki</word>
+  <word key="p_setting_footer_col_2_link_clr" js="0">Link</word>
+  <word key="p_setting_footer_col_2_link_clr_hover" js="0">Link hover</word>
+  <word key="p_setting_footer_col_2_links" js="0"><![CDATA[<b>[HTML]</b> Linki]]></word>
+  <word key="p_tab_footer_col_3" js="0">5 ostatnich tematów</word>
+  <word key="p_setting_footer_col_3_enabled" js="0">5 ostatnich tematów - włączone?</word>
+  <word key="p_setting_footer_col_3_icon" js="0">Ikona</word>
+  <word key="p_setting_footer_col_3_title" js="0">Tytuł</word>
+  <word key="p_setting_footer_col_3_forums" js="0">Wybierz forumm</word>
+  <word key="p_setting_footer_topic_badge" js="0">Pokazywać odznaki?</word>
+  <word key="p_setting_footer_topic_badge_desc" js="0">Przypięty, zamknięty etc.</word>
+  <word key="p_setting_footer_topic_more" js="0">Pokazywać więcej infomacji?</word>
+  <word key="p_tab_footer_col_4" js="0">Linki społeczności</word>
+  <word key="p_setting_footer_col_4_enabled" js="0">Linki społeczności - wlączyć?</word>
+  <word key="p_setting_footer_col_4_icon" js="0">Ikona</word>
+  <word key="p_setting_footer_col_4_title" js="0">Tytuł</word>
+  <word key="p_setting_footer_col_4_link_col" js="0">Wybierz ilosć kolumn</word>
+  <word key="p_setting_footer_col_4_link_col_desc" js="0">Ilość kolumn, w której mają być wyświetlane linki</word>
+  <word key="p_setting_footer_col_4_link_clr" js="0">Link</word>
+  <word key="p_setting_footer_col_4_link_clr_hover" js="0">Link hover</word>
+  <word key="p_setting_footer_col_4_links" js="0"><![CDATA[<b>[HTML]</b> Linki]]></word>
+  <word key="p_topic_unlocked" js="0">Temat jest zamknięty</word>
+  <word key="p_tab_logo" js="0">Ustawienia loga</word>
+  <word key="p_setting_logo_animations_enabled" js="0">Włączyć animacje?</word>
+  <word key="p_setting_logo_animations" js="0">Wybierz animacje</word>
+  <word key="p_setting_logo_animation_time" js="0">Czas animacji (Sekundy)</word>
+  <word key="p_setting_modify_forums" js="0">Zmodyfikować fora?</word>
+  <word key="p_setting_others_addons" js="0">Inne dodatki włączone?</word>
+  <word key="p_message_more" js="0">Czytaj dalej</word>
+  <word key="pc_setting_news_btn" js="0">Tło przycisku</word>
+  <word key="pcAppSidebar_toggle" js="1">Collapse / Expand widget</word>
+ </app>
+</language>
