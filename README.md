@@ -1,4 +1,4 @@
-# (PC) Forum add-ons - Polish translation
+# Forum add-ons - Polish translation
 
 
 ## 🏷️ Requirements
