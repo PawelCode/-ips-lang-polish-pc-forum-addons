@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="pcforumaddons" version="10000">
+ <app key="pcforumaddons" version="10002">
   <word key="__app_pcforumaddons" js="0">[PC] Forum add-ons</word>
   <word key="menutab__pcforumaddons_icon" js="0">commenting-o</word>
   <word key="menutab__pcforumaddons" js="0">Forum add-ons</word>
@@ -88,6 +88,7 @@
   <word key="pc_setting_main_tooltip_background" js="0">Kolor tła &quot;tooltip&quot;</word>
   <word key="pc_setting_main_tooltip_color" js="0">Kolor tekstu &quot;tooltip&quot;</word>
   <word key="pc_setting_main_new_message" js="0">Prefix &quot;Nowy&quot;</word>
+  <word key="pc_setting_main_new_message_desc" js="0"><![CDATA[Widoki w <i>oknie wiadomości</i> ]]></word>
   <word key="pc_setting_main_new_message_badge" js="0">Wygląd &quot;Nowy&quot;</word>
   <word key="pc_setting_main_new_message_front" js="0">Nowy</word>
   <word key="pc_setting_main_sticky_header_mobile" js="0">Przyklejony navbar na telefonie?</word>
@@ -133,6 +134,7 @@
   <word key="pc_tab_news_member" js="0">Komunikat dla użytkownika</word>
   <word key="pc_setting_news_member" js="0">Komunikat dla użytkownika</word>
   <word key="pc_setting_news_for_member" js="0">Nazwa użytkownika</word>
+  <word key="pc_setting_news_for_member_desc" js="0"><![CDATA[Wpisz nazwy użytkowników, którym ma się ukazać wiadomość <b>Limit: 20</b>. ]]></word>
   <word key="pc_setting_news_background_member" js="0">Kolor tła</word>
   <word key="pc_setting_news_color_member" js="0">Kolor tekstu</word>
   <word key="pc_setting_news_radius_member" js="0">Zaokrąglenie</word>
@@ -143,7 +145,7 @@
   <word key="pc_setting_news_url_member" js="0">Link do strony / tematu, do czego chcesz</word>
   <word key="pc_tab_news_group" js="0">Komunikat dla Grupy</word>
   <word key="pc_setting_news_group" js="0">Komunikat dla Grupy</word>
-  <word key="pc_setting_news_for_group" js="0">Wybierz grupe</word>
+  <word key="pc_setting_news_for_group_new" js="0">Wybierz grupę</word>
   <word key="pc_setting_news_background_group" js="0">Kolor tła</word>
   <word key="pc_setting_news_color_group" js="0">Kolor tekstu</word>
   <word key="pc_setting_news_radius_group" js="0">Zaokrąglenie</word>
@@ -184,6 +186,10 @@
   <word key="pc_tab_main_button_sm_facebook_url" js="0"><![CDATA[<b>(Facebook)</b> URL]]></word>
   <word key="pc_tab_main_button_sm_instagram_url" js="0"><![CDATA[<b>(Instagram)</b> URL]]></word>
   <word key="pc_tab_main_button_sm_twitter_url" js="0"><![CDATA[<b>(Twitter)</b> URL]]></word>
+  <word key="pc_tab_main_button_sm_telegram" js="0"><![CDATA[<b>Social Media</b> Telegram]]></word>
+  <word key="pc_tab_main_button_sm_telegram_url" js="0"><![CDATA[<b>(Telegram)</b> Link]]></word>
+  <word key="pc_tab_main_button_sm_vk" js="0"><![CDATA[<b>Social Media</b> VK]]></word>
+  <word key="pc_tab_main_button_sm_vk_url" js="0"><![CDATA[<b>(VK)</b> Link]]></word>
   <word key="pc_back_to_top" js="0">Wróć do góry</word>
   <word key="pc_go_to_bottom" js="0">Przejdź na dół</word>
   <word key="pc_home" js="0">Wróć na góre strony</word>
@@ -214,6 +220,7 @@
   <word key="p_setting_footer_staff_members_desc" js="0"><![CDATA[Limit: <b>10</b>]]></word>
   <word key="p_setting_footer_staff_members_enabled" js="0">Włączyć &quot;staff members&quot;</word>
   <word key="p_staff_members" js="0">Staff members</word>
+  <word key="social_media_header" js="0">Social Media</word>
   <word key="p_setting_footer_media" js="0">Social media w stopce</word>
   <word key="p_setting_media_facebook" js="0">Facebook włączony?</word>
   <word key="p_setting_media_facebook_url" js="0">Facebook URL</word>
@@ -233,6 +240,10 @@
   <word key="p_setting_media_tiktok_url" js="0">Tiktok URL</word>
   <word key="p_setting_media_pinterest" js="0">Pinterest włączony?</word>
   <word key="p_setting_media_pinterest_url" js="0">Pinterest URL</word>
+  <word key="p_setting_media_telegram" js="0">Telegram włączony?</word>
+  <word key="p_setting_media_telegram_url" js="0">Link do Telegramu</word>
+  <word key="p_setting_media_vk" js="0">VK włączone?</word>
+  <word key="p_setting_media_vk_url" js="0">Link do VK</word>
   <word key="p_tab_footer_col_2" js="0">Quick links</word>
   <word key="p_setting_footer_col_2_enabled" js="0">Quick links - włączony?</word>
   <word key="p_setting_footer_col_2_icon" js="0">Ikona</word>
@@ -268,6 +279,40 @@
   <word key="p_setting_others_addons" js="0">Inne dodatki włączone?</word>
   <word key="p_message_more" js="0">Czytaj dalej</word>
   <word key="pc_setting_news_btn" js="0">Tło przycisku</word>
+  <word key="pc_acp_message_readme" js="0"><![CDATA[There is a <b>README.md</b> file on your FTP server where you can find the<b> clear icon code</b>]]></word>
+  <word key="pc_icons_notifications_theme" js="0">Wygląd powiadomień</word>
+  <word key="pc_icons_notifications_theme_border" js="0">Rozmiar borderu</word>
+  <word key="pc_icons_notifications_theme_border_desc" js="0">Wartość w px</word>
+  <word key="pc_setting_news_btn_group" js="0">Kolor tła przycisków</word>
+  <word key="menu__pcforumaddons_addons_pMessages" js="0">Tekst na stronie logowania i rejestracji</word>
+  <word key="pc_tab_login_message" js="0">Wiadomość logowania</word>
+  <word key="p_message_login_enable" js="0">Włączyć wiadomość logowania?</word>
+  <word key="p_message_login_appearance" js="0">Wygląd wiadomości</word>
+  <word key="p_message_title_login" js="0">Treść wiadomości</word>
+  <word key="p_message_content_login" js="0">Treść wiadomości</word>
+  <word key="pc_tab_reg_message" js="0">Wiadomość rejestracji</word>
+  <word key="p_message_reg_enable" js="0">Włączyć wiadomość rejestracji?</word>
+  <word key="p_message_reg_appearance" js="0">Wygląd wiadomości</word>
+  <word key="p_message_title_reg" js="0">Tytuł wiadomości</word>
+  <word key="p_message_content_reg" js="0">Treść wiadomości</word>
+  <word key="menu__pcforumaddons_addons_helper" js="0">Ustawienia pomocy</word>
+  <word key="phelpCenterTitle" js="0">Strefa Pomocy</word>
+  <word key="menu__pcforumaddons_addons_helpCenter" js="0">Centrum Pomocy</word>
+  <word key="block_helpCenter" js="0">Strefa Pomocy</word>
+  <word key="block_helpCenter_desc" js="0">Wyświetlać strefę pomocy?</word>
+  <word key="help_center_add" js="0">Dodaj element</word>
+  <word key="help_center_addding" js="0">Dodawanie elementu pomocy</word>
+  <word key="helpcenter_title" js="0">Tytuł</word>
+  <word key="helpcenter_content" js="0">Treść</word>
+  <word key="helpcenter_icon" js="0">Ikona</word>
+  <word key="helpcenter_icon_desc" js="0">FontAwesome icon (np. fa-question-circle) </word>
+  <word key="helpcenter_modal" js="0">Modal?</word>
+  <word key="helpcenter_modal_desc" js="0">Zaznacz jeśli chcesz wyświetlić centrum pomocy w oknie modalnym </word>
+  <word key="helpcenter_color" js="0">Kolor Tła</word>
+  <word key="helpcenter_url" js="0">Link</word>
+  <word key="pHelpMore" js="0">Kliknij po więcej</word>
+  <word key="help_center_adding" js="0">Dodawanie elementu pomocy</word>
   <word key="pcAppSidebar_toggle" js="1">Collapse / Expand widget</word>
+  <word key="pc_setting_news_for_group" js="0">Wybierz grupe</word>
  </app>
 </language>

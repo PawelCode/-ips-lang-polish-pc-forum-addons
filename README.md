@@ -3,7 +3,7 @@
 
 ## 🏷️ Requirements
 
-- [Forum add-ons 1.0.0 ](https://invisioncommunity.com/files/file/10089-pc-forum-add-ons/)
+- [Forum add-ons 1.0.2](https://invisioncommunity.com/files/file/10089-pc-forum-add-ons/)
 
 ## 🔧 Install and update
 
